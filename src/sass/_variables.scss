@@ -3,20 +3,29 @@
 =============================================*/
 
 /* Colors */
-$primary: rgb(250, 174, 123);
-$secondary: rgb(204, 139, 121);
+$primary: #0fa7e8;
+$secondary: #8ac0d8;
 $success: #06af52;
 $danger: #ff6347;
 $warning: #ffc107;
 $light: #f8f9fa;
 $dark: #060606;
-$grey: #565655;
-$white: #ffffff;
+$white: #efefef;
+
+$grey-light-1: #faf9f9;
+$grey-light-2: #f4f2f2;
+$grey-light-3: #f0eeee;
+$grey-light-4: #ccc;
+
+$grey-dark-1: #333;
+$grey-dark-2: #565655;
+$grey-dark-3: #999;
 
 /* Typography */
-$font-family: "Josefin Sans", sans-serif;
+$font-primary: "Open Sans", sans-serif;
+$font-secondary: "Courgette", cursive;
 $font-normal: 400;
-$font-bold: 700;
+$font-bold: 800;
 
 /*=====  End of Theme  ======*/
 
