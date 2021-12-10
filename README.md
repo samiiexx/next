@@ -14,7 +14,7 @@ This is a practice website from the Advanced CSS and Sass Course
 
 ## Install
 ```
-    $ git clone git@github.com:samiiexx/sam-next.git main
+    $ git clone git@github.com:samiiexx/next.git main
     $ cd main
     $ npm install
     $ npm run build
